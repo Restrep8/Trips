@@ -47,8 +47,8 @@ https://facebook.github.io/create-react-app/docs/deployment
 
 ### npm run eject
 
-⚠️ Warning: this is a one-way operation.
-Once you run eject, you cannot go back.
+**⚠️ Warning: this is a one-way operation.
+Once you run eject, you cannot go back.**
 
 This command:
 
@@ -68,7 +68,7 @@ https://facebook.github.io/create-react-app/docs/getting-started
 
 https://reactjs.org/
 
-🔧 Additional Topics
+## 🔧 Additional Topics
 
 ### Code Splitting
 

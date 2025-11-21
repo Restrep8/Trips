@@ -2,7 +2,7 @@
 
 Trip$ is a travel expense manager that allows users to record expenses, split costs among participants, and automatically generate balance summaries showing who owes whom. The application simplifies financial organization during trips, ensuring a fair and transparent distribution of expenses among all travelers.
 
-## ⚛︎ Getting Started with Create React App
+## 🚩 Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
 

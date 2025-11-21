@@ -14,7 +14,7 @@ This command downloads all packages listed in package.json.
 
 In the project directory, you can run:
 
-### npm start
+### `npm start`
 
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
@@ -22,13 +22,13 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload automatically when you make changes.
 You may also see lint errors in the console.
 
-### npm test
+### `npm test`
 
 Launches the test runner in interactive watch mode.
 Learn more here:
 https://facebook.github.io/create-react-app/docs/running-tests
 
-### npm run build
+### `npm run build`
 
 Builds the app for production into the build folder.
 
@@ -45,7 +45,7 @@ Your app is now ready to be deployed.
 More info here:
 https://facebook.github.io/create-react-app/docs/deployment
 
-### npm run eject
+### `npm run eject`
 
 **⚠️ Warning: this is a one-way operation.
 Once you run eject, you cannot go back.**
@@ -86,6 +86,6 @@ https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### npm run build fails to minify
+### `npm run build fails to minify`
 
 https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

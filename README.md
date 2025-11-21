@@ -35,13 +35,9 @@ https://facebook.github.io/create-react-app/docs/running-tests
 
 Builds the app for production into the build folder.
 
-The production build:
+It correctly bundles React in production mode and optimizes the build for best performance.
 
-Is optimized for best performance,
-
-Minifies the files,
-
-Uses hashed filenames for efficient caching.
+The build is minified, and the filenames include hashes.
 
 Your app is now ready to be deployed.
 
